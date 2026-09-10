@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://www.olx.com.br/robots.txt",
+    "error": "ReadTimeout"
+  },
+  {
+    "url": "https://www.zapimoveis.com.br/robots.txt",
+    "error": "ReadTimeout"
+  },
+  {
+    "url": "https://www.imovelweb.com.br/robots.txt",
+    "error": "ReadTimeout"
+  },
+  {
+    "url": "https://www.santamerica.com.br/robots.txt",
+    "error": "ReadTimeout"
+  },
+  {
+    "url": "https://www.humanimoveis.com/robots.txt",
+    "error": "ReadTimeout"
+  },
+  {
+    "url": "https://www.imobiliariamonaco.com.br/robots.txt",
+    "error": "ReadTimeout"
+  },
+  {
+    "url": "https://www.yticon.com.br/robots.txt",
+    "error": "ReadTimeout"
+  },
+  {
+    "url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios/4113700",
+    "error": "ReadTimeout"
+  }
+]

@@ -1,0 +1,2 @@
+# Opcional: somente conversão de shapefiles para GeoJSON.
+geopandas>=1.0,<2

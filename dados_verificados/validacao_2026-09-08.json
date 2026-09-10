@@ -1,0 +1,14 @@
+{
+  "checked": "2026-09-08T18:49:25.689Z",
+  "human": {
+    "records": 10,
+    "geolocated": 9,
+    "rejected": 0
+  },
+  "santamerica": {
+    "records": 27,
+    "geolocated": 0,
+    "rejected": 0
+  },
+  "checks": 15
+}

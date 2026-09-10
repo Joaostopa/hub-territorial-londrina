@@ -1,0 +1,99 @@
+{
+  "population": 555965,
+  "year": 2022,
+  "scope": "Município inteiro",
+  "city": "Londrina",
+  "source": "https://servicodados.ibge.gov.br/api/v3/agregados/4714/periodos/2022/variaveis/93?localidades=N6[4113700]",
+  "incomeMean": 2332.51,
+  "incomeMedian": 1500,
+  "incomeSource": "https://sidra.ibge.gov.br/tabela/10295",
+  "ages": [
+    {
+      "name": "0 a 4 anos",
+      "count": 30194
+    },
+    {
+      "name": "5 a 9 anos",
+      "count": 33759
+    },
+    {
+      "name": "10 a 14 anos",
+      "count": 33061
+    },
+    {
+      "name": "15 a 19 anos",
+      "count": 35377
+    },
+    {
+      "name": "20 a 24 anos",
+      "count": 42012
+    },
+    {
+      "name": "25 a 29 anos",
+      "count": 44196
+    },
+    {
+      "name": "30 a 34 anos",
+      "count": 42573
+    },
+    {
+      "name": "35 a 39 anos",
+      "count": 41684
+    },
+    {
+      "name": "40 a 44 anos",
+      "count": 43308
+    },
+    {
+      "name": "45 a 49 anos",
+      "count": 36590
+    },
+    {
+      "name": "50 a 54 anos",
+      "count": 36273
+    },
+    {
+      "name": "55 a 59 anos",
+      "count": 34990
+    },
+    {
+      "name": "60 a 64 anos",
+      "count": 29691
+    },
+    {
+      "name": "65 a 69 anos",
+      "count": 25078
+    },
+    {
+      "name": "70 a 74 anos",
+      "count": 18880
+    },
+    {
+      "name": "75 a 79 anos",
+      "count": 13055
+    },
+    {
+      "name": "80 a 84 anos",
+      "count": 8282
+    },
+    {
+      "name": "85 a 89 anos",
+      "count": 4513
+    },
+    {
+      "name": "90 a 94 anos",
+      "count": 1919
+    },
+    {
+      "name": "95 a 99 anos",
+      "count": 465
+    },
+    {
+      "name": "100 anos ou mais",
+      "count": 65
+    }
+  ],
+  "ageSource": "https://sidra.ibge.gov.br/tabela/9514",
+  "checked": "2026-09-08T18:49:25Z",
+  "snapshot": true
+}
