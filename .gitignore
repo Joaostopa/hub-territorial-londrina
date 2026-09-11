@@ -10,3 +10,8 @@ data/*
 *.sqlite
 *.db-wal
 *.db-shm
+
+# Dados operacionais e backups locais: nunca publicar
+data/*.db*
+data/backups/
+__pycache__/

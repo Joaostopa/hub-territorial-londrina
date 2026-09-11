@@ -1,6 +1,13 @@
-# Hub Territorial de Londrina
+# Hub Territorial · Londrina e Curitiba
 
 Projeto Python de coleta e análise imobiliária e apresentação estática responsiva em `docs/`.
+
+## Novo piloto: Curitiba / Bacacheri
+
+Abra `docs/curitiba/` na apresentação. Instruções completas: [CURITIBA_BACACHERI.md](CURITIBA_BACACHERI.md). Rotina nova: `curitiba_pipeline.py`; atalhos Windows: `coletar_curitiba.bat`, `sincronizar_curitiba.bat`, `iniciar_curitiba.bat`.
+
+IBGE municipal e conveniências obtidos de fontes públicas. A base de anúncios de Curitiba começa vazia e precisa de coleta Apify ou importação real; não há 3.000 anúncios pré-carregados. Meta não é garantia de estoque. Endereços podem ser geocodificados com precisão identificada, usando chave Geoapify local opcional.
+
 
 ## Abrir a apresentação
 

@@ -1,0 +1,1363 @@
+{
+  "data": "2026-09-11T03:10:35.234629+00:00",
+  "centro": [
+    -25.4008,
+    -49.2281
+  ],
+  "raio_km": 3,
+  "items": [
+    {
+      "id": "node/860698547",
+      "nome": "Maxifarma",
+      "categoria": "Farmácias",
+      "latitude": -25.3850696,
+      "longitude": -49.2153112,
+      "url": "https://www.openstreetmap.org/node/860698547"
+    },
+    {
+      "id": "node/1803083561",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.4172054,
+      "longitude": -49.2483129,
+      "url": "https://www.openstreetmap.org/node/1803083561"
+    },
+    {
+      "id": "node/2013642607",
+      "nome": "Supermercado DuLeo",
+      "categoria": "Mercados",
+      "latitude": -25.3855615,
+      "longitude": -49.215634,
+      "url": "https://www.openstreetmap.org/node/2013642607"
+    },
+    {
+      "id": "node/2410623030",
+      "nome": "Colégio Adventista Boa Vista",
+      "categoria": "Escolas",
+      "latitude": -25.3817343,
+      "longitude": -49.2354168,
+      "url": "https://www.openstreetmap.org/node/2410623030"
+    },
+    {
+      "id": "node/2410623035",
+      "nome": "Escola Estadual João Paulo I",
+      "categoria": "Escolas",
+      "latitude": -25.3840219,
+      "longitude": -49.2377718,
+      "url": "https://www.openstreetmap.org/node/2410623035"
+    },
+    {
+      "id": "node/2410623045",
+      "nome": "Escola Municipal Ricardo Krieger",
+      "categoria": "Escolas",
+      "latitude": -25.3841673,
+      "longitude": -49.2372461,
+      "url": "https://www.openstreetmap.org/node/2410623045"
+    },
+    {
+      "id": "node/2470550598",
+      "nome": "Originale",
+      "categoria": "Restaurantes",
+      "latitude": -25.4094749,
+      "longitude": -49.2527189,
+      "url": "https://www.openstreetmap.org/node/2470550598"
+    },
+    {
+      "id": "node/2839933227",
+      "nome": "Carol Strapasson Espaço",
+      "categoria": "Restaurantes",
+      "latitude": -25.3799339,
+      "longitude": -49.2305066,
+      "url": "https://www.openstreetmap.org/node/2839933227"
+    },
+    {
+      "id": "node/2841525295",
+      "nome": "Pizzaria Santa Calábria",
+      "categoria": "Restaurantes",
+      "latitude": -25.4087638,
+      "longitude": -49.2549406,
+      "url": "https://www.openstreetmap.org/node/2841525295"
+    },
+    {
+      "id": "node/2841539031",
+      "nome": "Territórios",
+      "categoria": "Restaurantes",
+      "latitude": -25.3795442,
+      "longitude": -49.2279571,
+      "url": "https://www.openstreetmap.org/node/2841539031"
+    },
+    {
+      "id": "node/3261902674",
+      "nome": "Ermelindo de Leão",
+      "categoria": "Escolas",
+      "latitude": -25.39213,
+      "longitude": -49.2473413,
+      "url": "https://www.openstreetmap.org/node/3261902674"
+    },
+    {
+      "id": "node/3617375781",
+      "nome": "Farmácia Descontão",
+      "categoria": "Farmácias",
+      "latitude": -25.4037937,
+      "longitude": -49.2438455,
+      "url": "https://www.openstreetmap.org/node/3617375781"
+    },
+    {
+      "id": "node/3617375784",
+      "nome": "Forte Farma",
+      "categoria": "Farmácias",
+      "latitude": -25.4042398,
+      "longitude": -49.2444882,
+      "url": "https://www.openstreetmap.org/node/3617375784"
+    },
+    {
+      "id": "node/3617375785",
+      "nome": "Nissei",
+      "categoria": "Farmácias",
+      "latitude": -25.4044108,
+      "longitude": -49.2443104,
+      "url": "https://www.openstreetmap.org/node/3617375785"
+    },
+    {
+      "id": "node/3617375787",
+      "nome": "Farmácia Popular",
+      "categoria": "Farmácias",
+      "latitude": -25.4040746,
+      "longitude": -49.2439014,
+      "url": "https://www.openstreetmap.org/node/3617375787"
+    },
+    {
+      "id": "node/3620667926",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.412875,
+      "longitude": -49.2533548,
+      "url": "https://www.openstreetmap.org/node/3620667926"
+    },
+    {
+      "id": "node/3644397676",
+      "nome": "Cantinho Árabe",
+      "categoria": "Restaurantes",
+      "latitude": -25.4178079,
+      "longitude": -49.2494053,
+      "url": "https://www.openstreetmap.org/node/3644397676"
+    },
+    {
+      "id": "node/3644402486",
+      "nome": "Troppo Buono",
+      "categoria": "Restaurantes",
+      "latitude": -25.3998359,
+      "longitude": -49.2566504,
+      "url": "https://www.openstreetmap.org/node/3644402486"
+    },
+    {
+      "id": "node/3644414030",
+      "nome": "Bravus Grill",
+      "categoria": "Restaurantes",
+      "latitude": -25.3998063,
+      "longitude": -49.2564361,
+      "url": "https://www.openstreetmap.org/node/3644414030"
+    },
+    {
+      "id": "node/3673570685",
+      "nome": "Panvel",
+      "categoria": "Farmácias",
+      "latitude": -25.3955297,
+      "longitude": -49.2503854,
+      "url": "https://www.openstreetmap.org/node/3673570685"
+    },
+    {
+      "id": "node/3846622359",
+      "nome": "Jaguariaíva, E M-EF",
+      "categoria": "Escolas",
+      "latitude": -25.3965172,
+      "longitude": -49.2171777,
+      "url": "https://www.openstreetmap.org/node/3846622359"
+    },
+    {
+      "id": "node/3846622362",
+      "nome": "Erasmo Pilotto, E M Prof-EF",
+      "categoria": "Escolas",
+      "latitude": -25.3946831,
+      "longitude": -49.2036524,
+      "url": "https://www.openstreetmap.org/node/3846622362"
+    },
+    {
+      "id": "node/3846622363",
+      "nome": "Araucária, E M-EF",
+      "categoria": "Escolas",
+      "latitude": -25.403837,
+      "longitude": -49.2071403,
+      "url": "https://www.openstreetmap.org/node/3846622363"
+    },
+    {
+      "id": "node/3846622364",
+      "nome": "Algacyr M Maeder, C E Prof-EF M",
+      "categoria": "Escolas",
+      "latitude": -25.4044245,
+      "longitude": -49.2068436,
+      "url": "https://www.openstreetmap.org/node/3846622364"
+    },
+    {
+      "id": "node/3846622365",
+      "nome": "Colégio Estadual Leôncio Correia, EF M Profis",
+      "categoria": "Escolas",
+      "latitude": -25.4011096,
+      "longitude": -49.2447776,
+      "url": "https://www.openstreetmap.org/node/3846622365"
+    },
+    {
+      "id": "node/3846622366",
+      "nome": "Caramuru, E M-EI EF",
+      "categoria": "Escolas",
+      "latitude": -25.3980803,
+      "longitude": -49.2554814,
+      "url": "https://www.openstreetmap.org/node/3846622366"
+    },
+    {
+      "id": "node/3846622371",
+      "nome": "Nossa Senhora da Salete, E E-EF",
+      "categoria": "Escolas",
+      "latitude": -25.4129827,
+      "longitude": -49.2318386,
+      "url": "https://www.openstreetmap.org/node/3846622371"
+    },
+    {
+      "id": "node/4078827288",
+      "nome": "La Casa di Frango",
+      "categoria": "Restaurantes",
+      "latitude": -25.4079,
+      "longitude": -49.2497957,
+      "url": "https://www.openstreetmap.org/node/4078827288"
+    },
+    {
+      "id": "node/4078829389",
+      "nome": "Pague Menos",
+      "categoria": "Farmácias",
+      "latitude": -25.4081252,
+      "longitude": -49.2501425,
+      "url": "https://www.openstreetmap.org/node/4078829389"
+    },
+    {
+      "id": "node/4312537356",
+      "nome": "Escola Municipal",
+      "categoria": "Escolas",
+      "latitude": -25.4145026,
+      "longitude": -49.2063845,
+      "url": "https://www.openstreetmap.org/node/4312537356"
+    },
+    {
+      "id": "node/4473558572",
+      "nome": "Pizzaria Salvatore",
+      "categoria": "Restaurantes",
+      "latitude": -25.4177574,
+      "longitude": -49.2221231,
+      "url": "https://www.openstreetmap.org/node/4473558572"
+    },
+    {
+      "id": "node/4630850858",
+      "nome": "Dona Ambrosina",
+      "categoria": "Restaurantes",
+      "latitude": -25.418926,
+      "longitude": -49.2399578,
+      "url": "https://www.openstreetmap.org/node/4630850858"
+    },
+    {
+      "id": "node/4630854787",
+      "nome": "Academias",
+      "categoria": "Academias",
+      "latitude": -25.4190285,
+      "longitude": -49.241802,
+      "url": "https://www.openstreetmap.org/node/4630854787"
+    },
+    {
+      "id": "node/4630854788",
+      "nome": "Academias",
+      "categoria": "Academias",
+      "latitude": -25.4195461,
+      "longitude": -49.2413202,
+      "url": "https://www.openstreetmap.org/node/4630854788"
+    },
+    {
+      "id": "node/4630854789",
+      "nome": "Restaurantes",
+      "categoria": "Restaurantes",
+      "latitude": -25.4193893,
+      "longitude": -49.2414664,
+      "url": "https://www.openstreetmap.org/node/4630854789"
+    },
+    {
+      "id": "node/4924412796",
+      "nome": "Será o Benedito",
+      "categoria": "Restaurantes",
+      "latitude": -25.4055791,
+      "longitude": -49.240292,
+      "url": "https://www.openstreetmap.org/node/4924412796"
+    },
+    {
+      "id": "node/4924454119",
+      "nome": "Orymaki Sushi",
+      "categoria": "Restaurantes",
+      "latitude": -25.3897064,
+      "longitude": -49.2229042,
+      "url": "https://www.openstreetmap.org/node/4924454119"
+    },
+    {
+      "id": "node/4924454120",
+      "nome": "Fire Dog",
+      "categoria": "Restaurantes",
+      "latitude": -25.3930556,
+      "longitude": -49.2274265,
+      "url": "https://www.openstreetmap.org/node/4924454120"
+    },
+    {
+      "id": "node/5228245288",
+      "nome": "CrossFit Barigui",
+      "categoria": "Academias",
+      "latitude": -25.4174031,
+      "longitude": -49.2458194,
+      "url": "https://www.openstreetmap.org/node/5228245288"
+    },
+    {
+      "id": "node/5278252823",
+      "nome": "CrossFit Steel Giants",
+      "categoria": "Academias",
+      "latitude": -25.3979146,
+      "longitude": -49.2568208,
+      "url": "https://www.openstreetmap.org/node/5278252823"
+    },
+    {
+      "id": "node/5706763906",
+      "nome": "Maha Surya - Yoga & Terapia",
+      "categoria": "Academias",
+      "latitude": -25.3898743,
+      "longitude": -49.208239,
+      "url": "https://www.openstreetmap.org/node/5706763906"
+    },
+    {
+      "id": "node/5779138953",
+      "nome": "Nissei",
+      "categoria": "Farmácias",
+      "latitude": -25.3907334,
+      "longitude": -49.2240504,
+      "url": "https://www.openstreetmap.org/node/5779138953"
+    },
+    {
+      "id": "node/6170548115",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.405625,
+      "longitude": -49.2057522,
+      "url": "https://www.openstreetmap.org/node/6170548115"
+    },
+    {
+      "id": "node/6171367519",
+      "nome": "The Italian Job",
+      "categoria": "Restaurantes",
+      "latitude": -25.3888121,
+      "longitude": -49.2386815,
+      "url": "https://www.openstreetmap.org/node/6171367519"
+    },
+    {
+      "id": "node/6171397141",
+      "nome": "Buccanner",
+      "categoria": "Restaurantes",
+      "latitude": -25.3801314,
+      "longitude": -49.2303286,
+      "url": "https://www.openstreetmap.org/node/6171397141"
+    },
+    {
+      "id": "node/6172141467",
+      "nome": "Frango na Brasa",
+      "categoria": "Restaurantes",
+      "latitude": -25.4010394,
+      "longitude": -49.2470509,
+      "url": "https://www.openstreetmap.org/node/6172141467"
+    },
+    {
+      "id": "node/6172141726",
+      "nome": "Mercearia Canassa",
+      "categoria": "Restaurantes",
+      "latitude": -25.3955142,
+      "longitude": -49.2325376,
+      "url": "https://www.openstreetmap.org/node/6172141726"
+    },
+    {
+      "id": "node/6172141925",
+      "nome": "Abaré Express",
+      "categoria": "Restaurantes",
+      "latitude": -25.4073665,
+      "longitude": -49.238767,
+      "url": "https://www.openstreetmap.org/node/6172141925"
+    },
+    {
+      "id": "node/6172142064",
+      "nome": "Preço Popular",
+      "categoria": "Farmácias",
+      "latitude": -25.4033797,
+      "longitude": -49.2427753,
+      "url": "https://www.openstreetmap.org/node/6172142064"
+    },
+    {
+      "id": "node/6172142110",
+      "nome": "Nissei",
+      "categoria": "Farmácias",
+      "latitude": -25.4031079,
+      "longitude": -49.2427864,
+      "url": "https://www.openstreetmap.org/node/6172142110"
+    },
+    {
+      "id": "node/6172144925",
+      "nome": "Mar e Terra",
+      "categoria": "Restaurantes",
+      "latitude": -25.3897579,
+      "longitude": -49.2232013,
+      "url": "https://www.openstreetmap.org/node/6172144925"
+    },
+    {
+      "id": "node/6172145080",
+      "nome": "Pague Menos",
+      "categoria": "Farmácias",
+      "latitude": -25.4038985,
+      "longitude": -49.2435369,
+      "url": "https://www.openstreetmap.org/node/6172145080"
+    },
+    {
+      "id": "node/6173650239",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.4050855,
+      "longitude": -49.2454058,
+      "url": "https://www.openstreetmap.org/node/6173650239"
+    },
+    {
+      "id": "node/6173650240",
+      "nome": "Costelão Bacacheri 24h",
+      "categoria": "Restaurantes",
+      "latitude": -25.4051587,
+      "longitude": -49.2456101,
+      "url": "https://www.openstreetmap.org/node/6173650240"
+    },
+    {
+      "id": "node/6173652108",
+      "nome": "Preço Popular",
+      "categoria": "Farmácias",
+      "latitude": -25.4097926,
+      "longitude": -49.2537951,
+      "url": "https://www.openstreetmap.org/node/6173652108"
+    },
+    {
+      "id": "node/6173652179",
+      "nome": "Nissei",
+      "categoria": "Farmácias",
+      "latitude": -25.4094192,
+      "longitude": -49.2520631,
+      "url": "https://www.openstreetmap.org/node/6173652179"
+    },
+    {
+      "id": "node/6173761631",
+      "nome": "Chocolate com Banana Pizzaria e Caranguejaria",
+      "categoria": "Restaurantes",
+      "latitude": -25.4172134,
+      "longitude": -49.245506,
+      "url": "https://www.openstreetmap.org/node/6173761631"
+    },
+    {
+      "id": "node/6173761944",
+      "nome": "Gyozabar",
+      "categoria": "Restaurantes",
+      "latitude": -25.4212544,
+      "longitude": -49.2469221,
+      "url": "https://www.openstreetmap.org/node/6173761944"
+    },
+    {
+      "id": "node/6173762391",
+      "nome": "Rib's Costela no Rolete",
+      "categoria": "Restaurantes",
+      "latitude": -25.419205,
+      "longitude": -49.2435553,
+      "url": "https://www.openstreetmap.org/node/6173762391"
+    },
+    {
+      "id": "node/6173762530",
+      "nome": "Sem Culpa",
+      "categoria": "Restaurantes",
+      "latitude": -25.417829,
+      "longitude": -49.2491384,
+      "url": "https://www.openstreetmap.org/node/6173762530"
+    },
+    {
+      "id": "node/6173762545",
+      "nome": "Panvel",
+      "categoria": "Farmácias",
+      "latitude": -25.4178626,
+      "longitude": -49.2441818,
+      "url": "https://www.openstreetmap.org/node/6173762545"
+    },
+    {
+      "id": "node/6173762565",
+      "nome": "Le Liban",
+      "categoria": "Restaurantes",
+      "latitude": -25.4176894,
+      "longitude": -49.2463005,
+      "url": "https://www.openstreetmap.org/node/6173762565"
+    },
+    {
+      "id": "node/6173762924",
+      "nome": "Smart Fit",
+      "categoria": "Academias",
+      "latitude": -25.4177028,
+      "longitude": -49.2461325,
+      "url": "https://www.openstreetmap.org/node/6173762924"
+    },
+    {
+      "id": "node/6177750971",
+      "nome": "El Tomato Pizza Búrguer",
+      "categoria": "Restaurantes",
+      "latitude": -25.3877059,
+      "longitude": -49.2214906,
+      "url": "https://www.openstreetmap.org/node/6177750971"
+    },
+    {
+      "id": "node/6181349173",
+      "nome": "Nissei",
+      "categoria": "Farmácias",
+      "latitude": -25.3871651,
+      "longitude": -49.2110048,
+      "url": "https://www.openstreetmap.org/node/6181349173"
+    },
+    {
+      "id": "node/6181350609",
+      "nome": "Ítalo",
+      "categoria": "Mercados",
+      "latitude": -25.3842445,
+      "longitude": -49.215585,
+      "url": "https://www.openstreetmap.org/node/6181350609"
+    },
+    {
+      "id": "node/6181359857",
+      "nome": "Disk Pizza Lucarelli",
+      "categoria": "Restaurantes",
+      "latitude": -25.3847331,
+      "longitude": -49.2148893,
+      "url": "https://www.openstreetmap.org/node/6181359857"
+    },
+    {
+      "id": "node/6181380772",
+      "nome": "Academias",
+      "categoria": "Academias",
+      "latitude": -25.3967112,
+      "longitude": -49.208431,
+      "url": "https://www.openstreetmap.org/node/6181380772"
+    },
+    {
+      "id": "node/6181380774",
+      "nome": "Farmácias",
+      "categoria": "Farmácias",
+      "latitude": -25.3970668,
+      "longitude": -49.2082634,
+      "url": "https://www.openstreetmap.org/node/6181380774"
+    },
+    {
+      "id": "node/6927933889",
+      "nome": "Supermercado Condor",
+      "categoria": "Mercados",
+      "latitude": -25.3883531,
+      "longitude": -49.244612,
+      "url": "https://www.openstreetmap.org/node/6927933889"
+    },
+    {
+      "id": "node/6974609754",
+      "nome": "BIGzinho",
+      "categoria": "Mercados",
+      "latitude": -25.4031167,
+      "longitude": -49.2437656,
+      "url": "https://www.openstreetmap.org/node/6974609754"
+    },
+    {
+      "id": "node/8752906936",
+      "nome": "Isabela Supermercado",
+      "categoria": "Mercados",
+      "latitude": -25.3758838,
+      "longitude": -49.2196634,
+      "url": "https://www.openstreetmap.org/node/8752906936"
+    },
+    {
+      "id": "node/8752909449",
+      "nome": "Unipreço",
+      "categoria": "Farmácias",
+      "latitude": -25.3754071,
+      "longitude": -49.2197291,
+      "url": "https://www.openstreetmap.org/node/8752909449"
+    },
+    {
+      "id": "node/8759002444",
+      "nome": "Unipreço",
+      "categoria": "Farmácias",
+      "latitude": -25.388149,
+      "longitude": -49.2210336,
+      "url": "https://www.openstreetmap.org/node/8759002444"
+    },
+    {
+      "id": "node/10293486246",
+      "nome": "Killer Bee",
+      "categoria": "Academias",
+      "latitude": -25.4062585,
+      "longitude": -49.2531387,
+      "url": "https://www.openstreetmap.org/node/10293486246"
+    },
+    {
+      "id": "node/10769237257",
+      "nome": "Armazém da Família Boa Vista",
+      "categoria": "Mercados",
+      "latitude": -25.3851919,
+      "longitude": -49.2325455,
+      "url": "https://www.openstreetmap.org/node/10769237257"
+    },
+    {
+      "id": "node/10769237259",
+      "nome": "Armazém da Família Bairro Alto",
+      "categoria": "Mercados",
+      "latitude": -25.4037087,
+      "longitude": -49.1990016,
+      "url": "https://www.openstreetmap.org/node/10769237259"
+    },
+    {
+      "id": "node/11660115884",
+      "nome": "Chocolate com Banana Caranguejo",
+      "categoria": "Restaurantes",
+      "latitude": -25.4172146,
+      "longitude": -49.245541,
+      "url": "https://www.openstreetmap.org/node/11660115884"
+    },
+    {
+      "id": "node/11771810069",
+      "nome": "Pizzaria Unipizza",
+      "categoria": "Restaurantes",
+      "latitude": -25.4128184,
+      "longitude": -49.2280716,
+      "url": "https://www.openstreetmap.org/node/11771810069"
+    },
+    {
+      "id": "node/11914288069",
+      "nome": "Nou Exclusive Gym",
+      "categoria": "Academias",
+      "latitude": -25.4203428,
+      "longitude": -49.2384425,
+      "url": "https://www.openstreetmap.org/node/11914288069"
+    },
+    {
+      "id": "node/12155157053",
+      "nome": "Santigusta - Bacacheri",
+      "categoria": "Restaurantes",
+      "latitude": -25.4045529,
+      "longitude": -49.2450265,
+      "url": "https://www.openstreetmap.org/node/12155157053"
+    },
+    {
+      "id": "node/12289101810",
+      "nome": "Pizzaria Baggio",
+      "categoria": "Restaurantes",
+      "latitude": -25.3974305,
+      "longitude": -49.2362373,
+      "url": "https://www.openstreetmap.org/node/12289101810"
+    },
+    {
+      "id": "node/12289101811",
+      "nome": "La Piova Pizzaria",
+      "categoria": "Restaurantes",
+      "latitude": -25.3978642,
+      "longitude": -49.2359033,
+      "url": "https://www.openstreetmap.org/node/12289101811"
+    },
+    {
+      "id": "node/12998083801",
+      "nome": "Seu Marechal Gastro Bar",
+      "categoria": "Restaurantes",
+      "latitude": -25.3945969,
+      "longitude": -49.2316284,
+      "url": "https://www.openstreetmap.org/node/12998083801"
+    },
+    {
+      "id": "node/12999463341",
+      "nome": "Consultório Médico - Prevedello Saúde - Dr. Endrigo Prevedello",
+      "categoria": "Hospitais",
+      "latitude": -25.3981963,
+      "longitude": -49.2453495,
+      "url": "https://www.openstreetmap.org/node/12999463341"
+    },
+    {
+      "id": "node/13026541817",
+      "nome": "O Manauara",
+      "categoria": "Restaurantes",
+      "latitude": -25.4078482,
+      "longitude": -49.2034484,
+      "url": "https://www.openstreetmap.org/node/13026541817"
+    },
+    {
+      "id": "node/13763452826",
+      "nome": "Hortifruti",
+      "categoria": "Mercados",
+      "latitude": -25.3945623,
+      "longitude": -49.231788,
+      "url": "https://www.openstreetmap.org/node/13763452826"
+    },
+    {
+      "id": "node/14115172354",
+      "nome": "Farmácia São João",
+      "categoria": "Farmácias",
+      "latitude": -25.4071418,
+      "longitude": -49.2090509,
+      "url": "https://www.openstreetmap.org/node/14115172354"
+    },
+    {
+      "id": "node/14133620875",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.3995916,
+      "longitude": -49.2450675,
+      "url": "https://www.openstreetmap.org/node/14133620875"
+    },
+    {
+      "id": "node/14133837431",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.3881258,
+      "longitude": -49.2437479,
+      "url": "https://www.openstreetmap.org/node/14133837431"
+    },
+    {
+      "id": "node/14133912108",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.40687,
+      "longitude": -49.2553381,
+      "url": "https://www.openstreetmap.org/node/14133912108"
+    },
+    {
+      "id": "node/14134978938",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.3874352,
+      "longitude": -49.2202336,
+      "url": "https://www.openstreetmap.org/node/14134978938"
+    },
+    {
+      "id": "node/14135045692",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.3753481,
+      "longitude": -49.2192298,
+      "url": "https://www.openstreetmap.org/node/14135045692"
+    },
+    {
+      "id": "node/14135058105",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.4003745,
+      "longitude": -49.2579695,
+      "url": "https://www.openstreetmap.org/node/14135058105"
+    },
+    {
+      "id": "node/14135494655",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.3982037,
+      "longitude": -49.2374937,
+      "url": "https://www.openstreetmap.org/node/14135494655"
+    },
+    {
+      "id": "node/14155916589",
+      "nome": "Panvel",
+      "categoria": "Farmácias",
+      "latitude": -25.4073188,
+      "longitude": -49.2389763,
+      "url": "https://www.openstreetmap.org/node/14155916589"
+    },
+    {
+      "id": "node/14155958979",
+      "nome": "Panvel",
+      "categoria": "Farmácias",
+      "latitude": -25.3833596,
+      "longitude": -49.2351278,
+      "url": "https://www.openstreetmap.org/node/14155958979"
+    },
+    {
+      "id": "way/24807913",
+      "nome": "Colégio Militar de Curitiba",
+      "categoria": "Escolas",
+      "latitude": -25.4267887,
+      "longitude": -49.2249003,
+      "url": "https://www.openstreetmap.org/way/24807913"
+    },
+    {
+      "id": "way/136317806",
+      "nome": "BIG Cabral",
+      "categoria": "Mercados",
+      "latitude": -25.402572,
+      "longitude": -49.2482664,
+      "url": "https://www.openstreetmap.org/way/136317806"
+    },
+    {
+      "id": "way/136389833",
+      "nome": "Atacadão",
+      "categoria": "Mercados",
+      "latitude": -25.3896482,
+      "longitude": -49.2363007,
+      "url": "https://www.openstreetmap.org/way/136389833"
+    },
+    {
+      "id": "way/169134579",
+      "nome": "Farmácias",
+      "categoria": "Farmácias",
+      "latitude": -25.4181864,
+      "longitude": -49.2412475,
+      "url": "https://www.openstreetmap.org/way/169134579"
+    },
+    {
+      "id": "way/169141396",
+      "nome": "Sheik Ali",
+      "categoria": "Restaurantes",
+      "latitude": -25.4172064,
+      "longitude": -49.2477381,
+      "url": "https://www.openstreetmap.org/way/169141396"
+    },
+    {
+      "id": "way/170290375",
+      "nome": "Hospital Vita Curitiba",
+      "categoria": "Hospitais",
+      "latitude": -25.4072591,
+      "longitude": -49.217252,
+      "url": "https://www.openstreetmap.org/way/170290375"
+    },
+    {
+      "id": "way/244342372",
+      "nome": "Churrascaria Nova Estrela",
+      "categoria": "Restaurantes",
+      "latitude": -25.4054551,
+      "longitude": -49.2190734,
+      "url": "https://www.openstreetmap.org/way/244342372"
+    },
+    {
+      "id": "way/245048432",
+      "nome": "Academias",
+      "categoria": "Academias",
+      "latitude": -25.3990009,
+      "longitude": -49.2360231,
+      "url": "https://www.openstreetmap.org/way/245048432"
+    },
+    {
+      "id": "way/245064173",
+      "nome": "Hospital Cindacta",
+      "categoria": "Hospitais",
+      "latitude": -25.3978187,
+      "longitude": -49.2334946,
+      "url": "https://www.openstreetmap.org/way/245064173"
+    },
+    {
+      "id": "way/272172247",
+      "nome": "Hiper Condor Santa Cândida",
+      "categoria": "Mercados",
+      "latitude": -25.3773937,
+      "longitude": -49.2226656,
+      "url": "https://www.openstreetmap.org/way/272172247"
+    },
+    {
+      "id": "way/275862198",
+      "nome": "Festval",
+      "categoria": "Mercados",
+      "latitude": -25.4200249,
+      "longitude": -49.2390742,
+      "url": "https://www.openstreetmap.org/way/275862198"
+    },
+    {
+      "id": "way/279973766",
+      "nome": "Centro Hospitalar de Reabilitação - Ana Carolina Moura Xavier",
+      "categoria": "Hospitais",
+      "latitude": -25.405173,
+      "longitude": -49.2521991,
+      "url": "https://www.openstreetmap.org/way/279973766"
+    },
+    {
+      "id": "way/293371662",
+      "nome": "Colégio Santa Cândida",
+      "categoria": "Escolas",
+      "latitude": -25.3744814,
+      "longitude": -49.2246092,
+      "url": "https://www.openstreetmap.org/way/293371662"
+    },
+    {
+      "id": "way/296293495",
+      "nome": "Colégio Nossa Senhora do Rosário",
+      "categoria": "Escolas",
+      "latitude": -25.3910736,
+      "longitude": -49.2347586,
+      "url": "https://www.openstreetmap.org/way/296293495"
+    },
+    {
+      "id": "way/356270560",
+      "nome": "CMAE Professora Arlete Procotte",
+      "categoria": "Escolas",
+      "latitude": -25.3887609,
+      "longitude": -49.2260454,
+      "url": "https://www.openstreetmap.org/way/356270560"
+    },
+    {
+      "id": "way/356613570",
+      "nome": "Nissei",
+      "categoria": "Farmácias",
+      "latitude": -25.4202384,
+      "longitude": -49.2393145,
+      "url": "https://www.openstreetmap.org/way/356613570"
+    },
+    {
+      "id": "way/356623507",
+      "nome": "Colégio Estadual Amâncio Mouro",
+      "categoria": "Escolas",
+      "latitude": -25.4197689,
+      "longitude": -49.2302206,
+      "url": "https://www.openstreetmap.org/way/356623507"
+    },
+    {
+      "id": "way/381458414",
+      "nome": "Escola Ensino Fundamental Doutel de Andrade",
+      "categoria": "Escolas",
+      "latitude": -25.379346,
+      "longitude": -49.2460156,
+      "url": "https://www.openstreetmap.org/way/381458414"
+    },
+    {
+      "id": "way/381458735",
+      "nome": "CMEI Ângela Dellatre - Lápis de Cor",
+      "categoria": "Escolas",
+      "latitude": -25.3907369,
+      "longitude": -49.2138805,
+      "url": "https://www.openstreetmap.org/way/381458735"
+    },
+    {
+      "id": "way/434797332",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.4239508,
+      "longitude": -49.2417535,
+      "url": "https://www.openstreetmap.org/way/434797332"
+    },
+    {
+      "id": "way/473833232",
+      "nome": "Nissei",
+      "categoria": "Farmácias",
+      "latitude": -25.4172406,
+      "longitude": -49.2469121,
+      "url": "https://www.openstreetmap.org/way/473833232"
+    },
+    {
+      "id": "way/501721220",
+      "nome": "Escola Terceira Dimensão",
+      "categoria": "Escolas",
+      "latitude": -25.3833772,
+      "longitude": -49.2321507,
+      "url": "https://www.openstreetmap.org/way/501721220"
+    },
+    {
+      "id": "way/508177193",
+      "nome": "Academia ao ar livre",
+      "categoria": "Academias",
+      "latitude": -25.4147381,
+      "longitude": -49.2532282,
+      "url": "https://www.openstreetmap.org/way/508177193"
+    },
+    {
+      "id": "way/544840179",
+      "nome": "Nacional",
+      "categoria": "Mercados",
+      "latitude": -25.394369,
+      "longitude": -49.2278114,
+      "url": "https://www.openstreetmap.org/way/544840179"
+    },
+    {
+      "id": "way/546947808",
+      "nome": "Academias",
+      "categoria": "Academias",
+      "latitude": -25.4012505,
+      "longitude": -49.2403647,
+      "url": "https://www.openstreetmap.org/way/546947808"
+    },
+    {
+      "id": "way/546947811",
+      "nome": "Maxifarma",
+      "categoria": "Farmácias",
+      "latitude": -25.4003922,
+      "longitude": -49.2388323,
+      "url": "https://www.openstreetmap.org/way/546947811"
+    },
+    {
+      "id": "way/546947813",
+      "nome": "Panvel",
+      "categoria": "Farmácias",
+      "latitude": -25.3966807,
+      "longitude": -49.2322008,
+      "url": "https://www.openstreetmap.org/way/546947813"
+    },
+    {
+      "id": "way/546947814",
+      "nome": "Farmácias",
+      "categoria": "Farmácias",
+      "latitude": -25.3961666,
+      "longitude": -49.2313886,
+      "url": "https://www.openstreetmap.org/way/546947814"
+    },
+    {
+      "id": "way/547707662",
+      "nome": "Mercados",
+      "categoria": "Mercados",
+      "latitude": -25.4010341,
+      "longitude": -49.2397226,
+      "url": "https://www.openstreetmap.org/way/547707662"
+    },
+    {
+      "id": "way/564142253",
+      "nome": "Max Atacadista",
+      "categoria": "Mercados",
+      "latitude": -25.4025725,
+      "longitude": -49.2152638,
+      "url": "https://www.openstreetmap.org/way/564142253"
+    },
+    {
+      "id": "way/570572509",
+      "nome": "Cerro Azul, E M-EI EF",
+      "categoria": "Escolas",
+      "latitude": -25.3906252,
+      "longitude": -49.2165832,
+      "url": "https://www.openstreetmap.org/way/570572509"
+    },
+    {
+      "id": "way/570572529",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.39082,
+      "longitude": -49.2165272,
+      "url": "https://www.openstreetmap.org/way/570572529"
+    },
+    {
+      "id": "way/570833570",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.3922819,
+      "longitude": -49.2204476,
+      "url": "https://www.openstreetmap.org/way/570833570"
+    },
+    {
+      "id": "way/570833571",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.3921924,
+      "longitude": -49.2201923,
+      "url": "https://www.openstreetmap.org/way/570833571"
+    },
+    {
+      "id": "way/570833572",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.3922565,
+      "longitude": -49.2203311,
+      "url": "https://www.openstreetmap.org/way/570833572"
+    },
+    {
+      "id": "way/570833574",
+      "nome": "Branca do N Miranda, C E Dona-EF M",
+      "categoria": "Escolas",
+      "latitude": -25.3921367,
+      "longitude": -49.2199267,
+      "url": "https://www.openstreetmap.org/way/570833574"
+    },
+    {
+      "id": "way/570833575",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.3921719,
+      "longitude": -49.2200686,
+      "url": "https://www.openstreetmap.org/way/570833575"
+    },
+    {
+      "id": "way/570833576",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.3924731,
+      "longitude": -49.2200337,
+      "url": "https://www.openstreetmap.org/way/570833576"
+    },
+    {
+      "id": "way/570833577",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.3924741,
+      "longitude": -49.2198018,
+      "url": "https://www.openstreetmap.org/way/570833577"
+    },
+    {
+      "id": "way/591475059",
+      "nome": "Boni Bacacheri",
+      "categoria": "Mercados",
+      "latitude": -25.3882134,
+      "longitude": -49.2215139,
+      "url": "https://www.openstreetmap.org/way/591475059"
+    },
+    {
+      "id": "way/591475064",
+      "nome": "Boni Bacacheri",
+      "categoria": "Mercados",
+      "latitude": -25.3881662,
+      "longitude": -49.2213647,
+      "url": "https://www.openstreetmap.org/way/591475064"
+    },
+    {
+      "id": "way/592845890",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.396514,
+      "longitude": -49.2173143,
+      "url": "https://www.openstreetmap.org/way/592845890"
+    },
+    {
+      "id": "way/592845891",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.3964338,
+      "longitude": -49.2170896,
+      "url": "https://www.openstreetmap.org/way/592845891"
+    },
+    {
+      "id": "way/592845892",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.3966631,
+      "longitude": -49.2169906,
+      "url": "https://www.openstreetmap.org/way/592845892"
+    },
+    {
+      "id": "way/626014264",
+      "nome": "Supermercado Condor",
+      "categoria": "Mercados",
+      "latitude": -25.3882673,
+      "longitude": -49.2446726,
+      "url": "https://www.openstreetmap.org/way/626014264"
+    },
+    {
+      "id": "way/629138245",
+      "nome": "Posto Atuba",
+      "categoria": "Mercados",
+      "latitude": -25.3879109,
+      "longitude": -49.2111019,
+      "url": "https://www.openstreetmap.org/way/629138245"
+    },
+    {
+      "id": "way/682275364",
+      "nome": "Mercados",
+      "categoria": "Mercados",
+      "latitude": -25.3786863,
+      "longitude": -49.2272332,
+      "url": "https://www.openstreetmap.org/way/682275364"
+    },
+    {
+      "id": "way/694304090",
+      "nome": "Bar do Edmundo",
+      "categoria": "Restaurantes",
+      "latitude": -25.395976,
+      "longitude": -49.231401,
+      "url": "https://www.openstreetmap.org/way/694304090"
+    },
+    {
+      "id": "way/696684504",
+      "nome": "Mercados",
+      "categoria": "Mercados",
+      "latitude": -25.411741,
+      "longitude": -49.2267424,
+      "url": "https://www.openstreetmap.org/way/696684504"
+    },
+    {
+      "id": "way/745053275",
+      "nome": "Supermercado Ouro Branco",
+      "categoria": "Mercados",
+      "latitude": -25.4057094,
+      "longitude": -49.2014616,
+      "url": "https://www.openstreetmap.org/way/745053275"
+    },
+    {
+      "id": "way/745058814",
+      "nome": "Supermercado Boni",
+      "categoria": "Mercados",
+      "latitude": -25.4010628,
+      "longitude": -49.2068353,
+      "url": "https://www.openstreetmap.org/way/745058814"
+    },
+    {
+      "id": "way/745059023",
+      "nome": "Farmácias",
+      "categoria": "Farmácias",
+      "latitude": -25.4008846,
+      "longitude": -49.2063939,
+      "url": "https://www.openstreetmap.org/way/745059023"
+    },
+    {
+      "id": "way/745060213",
+      "nome": "Madero",
+      "categoria": "Restaurantes",
+      "latitude": -25.4245213,
+      "longitude": -49.2420223,
+      "url": "https://www.openstreetmap.org/way/745060213"
+    },
+    {
+      "id": "way/752658642",
+      "nome": "Piegel",
+      "categoria": "Restaurantes",
+      "latitude": -25.4069061,
+      "longitude": -49.2565524,
+      "url": "https://www.openstreetmap.org/way/752658642"
+    },
+    {
+      "id": "way/752686128",
+      "nome": "Kharina",
+      "categoria": "Restaurantes",
+      "latitude": -25.409665,
+      "longitude": -49.2544509,
+      "url": "https://www.openstreetmap.org/way/752686128"
+    },
+    {
+      "id": "way/752839167",
+      "nome": "Azuki Sabores do japão",
+      "categoria": "Restaurantes",
+      "latitude": -25.4051701,
+      "longitude": -49.2577339,
+      "url": "https://www.openstreetmap.org/way/752839167"
+    },
+    {
+      "id": "way/752847496",
+      "nome": "Panvel",
+      "categoria": "Farmácias",
+      "latitude": -25.4084506,
+      "longitude": -49.250335,
+      "url": "https://www.openstreetmap.org/way/752847496"
+    },
+    {
+      "id": "way/752847497",
+      "nome": "Munhoz da Rocha",
+      "categoria": "Restaurantes",
+      "latitude": -25.4084706,
+      "longitude": -49.250602,
+      "url": "https://www.openstreetmap.org/way/752847497"
+    },
+    {
+      "id": "way/752847501",
+      "nome": "Restaurantes",
+      "categoria": "Restaurantes",
+      "latitude": -25.4075045,
+      "longitude": -49.2532003,
+      "url": "https://www.openstreetmap.org/way/752847501"
+    },
+    {
+      "id": "way/968948338",
+      "nome": "Condor Gourmet",
+      "categoria": "Mercados",
+      "latitude": -25.3970945,
+      "longitude": -49.2572975,
+      "url": "https://www.openstreetmap.org/way/968948338"
+    },
+    {
+      "id": "way/1084903985",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.4000893,
+      "longitude": -49.2093455,
+      "url": "https://www.openstreetmap.org/way/1084903985"
+    },
+    {
+      "id": "way/1087584721",
+      "nome": "Farmácias Unipreço",
+      "categoria": "Farmácias",
+      "latitude": -25.3971333,
+      "longitude": -49.2078535,
+      "url": "https://www.openstreetmap.org/way/1087584721"
+    },
+    {
+      "id": "way/1087584722",
+      "nome": "Farmácias",
+      "categoria": "Farmácias",
+      "latitude": -25.3972496,
+      "longitude": -49.2077985,
+      "url": "https://www.openstreetmap.org/way/1087584722"
+    },
+    {
+      "id": "way/1087584723",
+      "nome": "Escola Dunamys",
+      "categoria": "Escolas",
+      "latitude": -25.4006795,
+      "longitude": -49.2008898,
+      "url": "https://www.openstreetmap.org/way/1087584723"
+    },
+    {
+      "id": "way/1087586147",
+      "nome": "TopSuper Supermercado",
+      "categoria": "Mercados",
+      "latitude": -25.3955905,
+      "longitude": -49.2075919,
+      "url": "https://www.openstreetmap.org/way/1087586147"
+    },
+    {
+      "id": "way/1156703984",
+      "nome": "Supermercado Gasparin",
+      "categoria": "Mercados",
+      "latitude": -25.3921321,
+      "longitude": -49.2398779,
+      "url": "https://www.openstreetmap.org/way/1156703984"
+    },
+    {
+      "id": "way/1266527970",
+      "nome": "Mercados",
+      "categoria": "Mercados",
+      "latitude": -25.3991354,
+      "longitude": -49.2531891,
+      "url": "https://www.openstreetmap.org/way/1266527970"
+    },
+    {
+      "id": "way/1300030322",
+      "nome": "Panvel",
+      "categoria": "Farmácias",
+      "latitude": -25.4235067,
+      "longitude": -49.2410144,
+      "url": "https://www.openstreetmap.org/way/1300030322"
+    },
+    {
+      "id": "way/1446046527",
+      "nome": "Escolas",
+      "categoria": "Escolas",
+      "latitude": -25.4042079,
+      "longitude": -49.2069175,
+      "url": "https://www.openstreetmap.org/way/1446046527"
+    },
+    {
+      "id": "way/1446051643",
+      "nome": "Droga Raia",
+      "categoria": "Farmácias",
+      "latitude": -25.4052832,
+      "longitude": -49.2047868,
+      "url": "https://www.openstreetmap.org/way/1446051643"
+    },
+    {
+      "id": "way/1459372080",
+      "nome": "Smart Fit",
+      "categoria": "Academias",
+      "latitude": -25.4024271,
+      "longitude": -49.247783,
+      "url": "https://www.openstreetmap.org/way/1459372080"
+    },
+    {
+      "id": "way/1473363958",
+      "nome": "Festval",
+      "categoria": "Mercados",
+      "latitude": -25.4079436,
+      "longitude": -49.251419,
+      "url": "https://www.openstreetmap.org/way/1473363958"
+    }
+  ],
+  "available": true
+}

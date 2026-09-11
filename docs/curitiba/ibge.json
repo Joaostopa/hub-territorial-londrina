@@ -1,0 +1,9 @@
+{
+  "city": "Curitiba",
+  "available": true,
+  "population": 1773718,
+  "year": 2022,
+  "ages": [],
+  "checked": "2026-09-11T03:08:36.932356+00:00",
+  "source": "https://servicodados.ibge.gov.br/api/v3/agregados/4714/periodos/2022/variaveis/93?localidades=N6%5B4106902%5D"
+}

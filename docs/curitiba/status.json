@@ -1,0 +1,13 @@
+{
+  "city": "Curitiba",
+  "focus": "Bacacheri",
+  "generated_at": "2026-09-11T03:11:52.933697+00:00",
+  "target": 3000,
+  "records": 0,
+  "portal_records": 0,
+  "bacacheri": 0,
+  "geolocated": 0,
+  "target_reached": false,
+  "observations": 0,
+  "reserved_usd": 0
+}
