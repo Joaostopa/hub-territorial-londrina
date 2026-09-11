@@ -208,7 +208,8 @@ def verify_run(run_id,business=None):
     return run
 
 def sync_job(db,job):
-    if job['state']=='IMPORTED':return {'status':'IMPORTED'}
+    if job['state'].startswith('IMPORTED'):
+        return {'status':job['state'], 'partial':job['state'] not in ('IMPORTED', 'IMPORTED_SUCCEEDED')}
     if not job['run_id']:raise RuntimeError('Início incerto: confira Runs na Apify e use attach JOB_ID RUN_ID. Não repita a cobrança.')
     run=verify_run(job['run_id'],job['business']);status=run['status']
     if status not in ('SUCCEEDED','FAILED','TIMED-OUT','ABORTED'):
@@ -221,7 +222,7 @@ def sync_job(db,job):
         records.extend(page);offset+=len(page)
         if len(records)>20000:raise RuntimeError('Dataset excede limite de segurança de 20 mil registros; não foi importado parcialmente.')
     result=import_records(db,records,job['run_id'])
-    db.execute('UPDATE ctb_jobs SET state=? WHERE id=?',('IMPORTED',job['id']));db.commit()
+    db.execute('UPDATE ctb_jobs SET state=? WHERE id=?',('IMPORTED_'+status,job['id']));db.commit()
     return dict(status=status,partial=status!='SUCCEEDED',**result)
 
 def latest(db):
