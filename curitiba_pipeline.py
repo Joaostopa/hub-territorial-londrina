@@ -79,6 +79,13 @@ def stage(x):
         return found[0][0], 'Texto do anúncio; requer conferência', found[0][1]
     return 'Não informado', 'Sem evidência ou texto ambíguo', ''
 
+def neighborhood_hint(x):
+    if str(x.get('address_neighborhood') or '').strip():
+        return ''
+    # Menção textual é uma pista; não altera o bairro informado pelo portal.
+    text = norm(str(x.get('title') or '') + ' ' + str(x.get('description') or ''))
+    return 'Bacacheri' if re.search(r'\bbacacheri\b', text) else ''
+
 def normalize(x):
     if not isinstance(x, dict):
         raise ValueError('registro não é objeto')
@@ -106,7 +113,7 @@ def normalize(x):
     positive = lambda key: num(x.get(key)) if (num(x.get(key)) or 0) > 0 else None
     return dict(id=f'{portal}:{x["listing_id"]}:{business}', grupo_id=f'{x["listing_id"]}:{business}',
         id_externo=str(x['listing_id']), fonte=f'Apify {portal}', cidade='Curitiba', titulo=clean(x.get('title')),
-        bairro=clean(x.get('address_neighborhood'),100), finalidade='venda' if business=='SALE' else 'aluguel',
+        bairro=clean(x.get('address_neighborhood'),100), bairro_sugerido=neighborhood_hint(x), finalidade='venda' if business=='SALE' else 'aluguel',
         tipo='apartamento', preco=positive('price'), area_m2=positive('area_useful'), area_total=positive('area_total'),
         quartos=num(x.get('bedrooms')), vagas=num(x.get('parking_spaces')), condominio=num(x.get('condominium_fee')),
         iptu_anual=num(x.get('iptu')), rua=clean(x.get('address_street'),160), numero=clean(x.get('address_number'),20),

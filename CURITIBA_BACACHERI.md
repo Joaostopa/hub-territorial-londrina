@@ -85,3 +85,9 @@ A página local e GitHub Pages leem JSON, sem token. O upload JSON na página é
 Para atualizar o site GitHub Pages, envie apenas os JSON normalizados de `docs/curitiba/` ao repositório. Não envie `.env`, banco ou backups. Hospedagem não sincroniza automaticamente com o notebook.
 
 Endereço esperado após Pages ativado: https://joaostopa.github.io/hub-territorial-londrina/curitiba/
+
+## Anúncios sem posição individual: grupo do bairro
+
+A página oferece um marcador agregado de referência visual no Bacacheri. Reúne anúncios com bairro Bacacheri informado que não têm posição habilitada. Quando o bairro está vazio, uma menção literal a Bacacheri no título/descrição pode aparecer como pista separada, marcada para conferência; não é prova de endereço. A opção de incluir menções pode ser desligada.
+
+O marcador não altera coordenadas individuais nem entra no cálculo do raio. Ao clicar em “Ver anúncios do bairro”, o círculo é limpo e a lista abre filtrada por bairro/menção. A opção é exclusiva do Bacacheri neste piloto. Não há custo de geocodificação para esse agrupamento. A leitura da descrição ocorre em novas importações/coletas; dados antigos sem descrição não são enriquecidos retroativamente.
