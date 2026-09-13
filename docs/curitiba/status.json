@@ -1,13 +1,15 @@
 {
   "city": "Curitiba",
   "focus": "Bacacheri",
-  "generated_at": "2026-09-11T03:11:52.933697+00:00",
+  "generated_at": "2026-09-13T21:27:36.516901+00:00",
   "target": 3000,
-  "records": 0,
-  "portal_records": 0,
-  "bacacheri": 0,
-  "geolocated": 0,
+  "records": 414,
+  "portal_records": 414,
+  "bacacheri": 376,
+  "geolocated": 414,
   "target_reached": false,
-  "observations": 0,
-  "reserved_usd": 0
+  "observations": 414,
+  "scope": "Snapshot público, não representa o banco local do usuário",
+  "source_file": "dataset_vivareal-scraper_2026-09-13_21-23-06-702.json",
+  "reference_kind": "exportação fornecida; coleta não informada"
 }
