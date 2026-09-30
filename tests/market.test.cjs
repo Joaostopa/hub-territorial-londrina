@@ -23,3 +23,11 @@ test('dashboard and project startup use the published data and shared filters',a
  vm.runInContext(fs.readFileSync('docs/curitiba/registry.js','utf8'),ctx);assert.match(el('registry-list').innerHTML,/Teste/);
  el('purpose').value='aluguel';vm.runInContext('render()',ctx);assert.equal(vm.runInContext('selected.length',ctx),1);
  });
+
+test('new city snapshot preserves the baseline and never infers exits from partial collection',()=>{
+ const baseline=JSON.parse(fs.readFileSync('docs/curitiba/imoveis.json')),h=JSON.parse(fs.readFileSync('docs/curitiba/historico.json'));
+ const batches=[b('09',baseline,false),...h.batches.map((x,i)=>({...x,id:'run-'+i,city:'Curitiba',observed:x.observed_at}))];
+ const result=engine.replay(batches),ids=new Set(result.current.map(r=>r.id));
+ assert.ok(baseline.every(r=>ids.has(r.id)));assert.equal(result.exits.length,0);
+ for(const batch of h.batches){assert.equal(batch.complete,false);assert.ok(batch.records.every(r=>r.finalidade===batch.purpose&&r.cidade==='Curitiba'&&r.preco>0));assert.equal(new Set(batch.records.map(r=>r.id)).size,batch.records.length);assert.ok(batch.records.every(r=>!r.contact_details&&!r.source_context&&!r.attributes));}
+});
